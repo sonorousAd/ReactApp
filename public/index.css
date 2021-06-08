@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'myfont';
+    src: url('./includes/get_schwifty.ttf');
+}
+body{
+    background-color: rosybrown;
+    background-image: url('./includes/back.jpg');
+}
+#title{
+    font-family: "myfont";
+    color: chartreuse;
+    text-align: center;
+    font-family: myfont;
+    font-size: 230%;
+}

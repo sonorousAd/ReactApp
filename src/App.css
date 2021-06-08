@@ -1,0 +1,17 @@
+#searchByNameInput{
+    margin-left: 21%;
+    border: none;
+    background-color: slategray;
+    color: black;
+    width: 114vh;
+    height: 4vh;
+    margin-bottom: 1%;
+    border-radius: 59px;
+    font-size: large;
+    outline: none;
+    padding-left:10px ;
+    
+}::placeholder{
+    color: black;
+    opacity: 50%;
+}

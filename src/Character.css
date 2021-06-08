@@ -1,0 +1,28 @@
+#foto{
+    height: 30vh;
+    border:1px solid black;
+    margin-left: 4%;
+    margin-top: 3.5%;
+    border-radius: 50%;
+    float: left;
+    
+}
+#txt{
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 10%;
+    margin-top: 4%;
+}
+.alv{
+    color: limegreen;
+}
+.dd{
+    color: red;
+}
+.unk{
+    color: gainsboro;
+}
+#nm{
+    font-weight: 900;
+    font-size: 40px;
+}

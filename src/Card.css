@@ -1,0 +1,10 @@
+#cards{
+    border-radius: 0%;
+    height: 40vh;
+    width: 132vh;
+    margin-left: 17%;
+    background-color: slategray;
+    margin-bottom: 2%;
+    box-shadow: 1px 1px 4px whitesmoke;  
+    border-radius: 59px;
+}
