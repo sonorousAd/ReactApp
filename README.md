@@ -9,3 +9,7 @@ To run download files and execute -npm start
 
 ![alt text](https://github.com/sonorousAd/ReactApp/blob/main/public/includes/Screenshot%20(11).png)
 
+To run the application locally:
+  * download files
+  * install npm '-npm install'
+  * run '-npm start' in root folder
