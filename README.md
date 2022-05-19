@@ -11,5 +11,5 @@ To run download files and execute -npm start
 
 To run the application locally:
   * download files
-  * install npm '-npm install'
+  * install npm '-npm install' in root folder
   * run '-npm start' in root folder
