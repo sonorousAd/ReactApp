@@ -2,6 +2,25 @@
     font-family: 'myfont';
     src: url('./includes/get_schwifty.ttf');
 }
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: black;
+  }
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 10px;
+  }
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #D3D3D3;
+  }
+
+
 body{
     background-color: rosybrown;
     background-image: url('./includes/back.jpg');
