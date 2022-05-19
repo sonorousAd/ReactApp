@@ -1,7 +1,6 @@
 #searchByNameInput{
     margin-left: 21%;
-    border: none;
-    background-color: slategray;
+    background-color: 	#D3D3D3;
     color: black;
     width: 114vh;
     height: 4vh;
@@ -10,6 +9,8 @@
     font-size: large;
     outline: none;
     padding-left:10px ;
+    
+    
     
 }::placeholder{
     color: black;
